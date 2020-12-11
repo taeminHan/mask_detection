@@ -6,7 +6,7 @@ machine learning based mask_detection
 COVID-19의 예방책으로 가장 각광받고 있는 마스크 착용의 실천을 도모하기 위하여 마스크 착용자를 식별하기 위한 인공지능 이미지 인식 서비스.
 
 
-데이터 셋은 위 개요의 참고 데이터 셋을 Kaggle에서 다운로드하여 사용하였습니다. 
+데이터 셋은 아래 참고 데이터 셋을 Kaggle에서 다운로드하여 사용하였습니다. 
 해당 데이터 셋은 Train 및 Validation의 비율을 8:2로 나누었습니다. 
 데이터는 With Mask, Without Mask로 나누었으며 각각 5000장씩 이미지를 사용하였습니다.
 
