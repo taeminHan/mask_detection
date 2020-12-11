@@ -13,16 +13,20 @@ COVID-19의 예방책으로 가장 각광받고 있는 마스크 착용의 실�
 사용된 데이터 셋은 아래에 있습니다.
 
 
-구성도
+대충 그린 구성도
 ================
-![그림2](https://user-images.githubusercontent.com/5088870/101862726-4acd7e80-3bb6-11eb-9fb7-edde007a7740.png)  
-  
+![그림2](https://user-images.githubusercontent.com/5088870/101862726-4acd7e80-3bb6-11eb-9fb7-edde007a7740.png) 
+
+
+구성도 그릴줄 몰라서 일단 보이는대로 했습니다.
+
   
     
 학습 결과 그래프
 ================
-![그림3](https://user-images.githubusercontent.com/5088870/101863737-0b536200-3bb7-11eb-8e86-8333c3aeafb8.png)
-![그림4](https://user-images.githubusercontent.com/5088870/101863744-0c848f00-3bb7-11eb-91d9-1b02c0580fba.png)
+![그림2](https://user-images.githubusercontent.com/5088870/101878482-01d7f300-3bd3-11eb-95cc-c99b3bcabcb1.png)
+![그림1](https://user-images.githubusercontent.com/5088870/101878486-03092000-3bd3-11eb-8d1c-12758bf7af4e.png)
+
 
 
 
