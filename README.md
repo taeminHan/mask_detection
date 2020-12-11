@@ -36,6 +36,8 @@ Screenshot
 =================
 ![그림1](https://user-images.githubusercontent.com/5088870/101862720-44d79d80-3bb6-11eb-9440-e2c344b5c0d1.jpg)
 
+IU를 인식 해보자!
+
 흰색 마스크는 인식이 가능하지만 검은 마스크는 아직 인식이 불가능 합니다.
 
 
